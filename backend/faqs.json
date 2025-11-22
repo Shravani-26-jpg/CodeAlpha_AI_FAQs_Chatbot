@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is Artificial Intelligence?",
+    "answer": "Artificial Intelligence (AI) is a field of computer science focused on creating machines capable of performing tasks that normally require human intelligence, such as learning, reasoning, problem-solving, perception and language understanding."
+  },
+  {
+    "question": "What is Machine Learning?",
+    "answer": "Machine learning is a subset of Artificial Intelligence that enables systems to learn patterns from data and improve performance on tasks without being explicitly programmed."
+  },
+  {
+    "question": "What is Deep Learning?",
+    "answer": "Deep learning is a specialized branch of machine learning that uses neural networks with many layers to analyze complex patterns in large datasets, such as images, speech or text."
+  },
+  {
+    "question": "What is Natural Language Processing?",
+    "answer": "Natural Language Processing (NLP) is a field of AI that enables computers to understand, interpret and generate human language."
+  },
+  {
+    "question": "What is a Neural Network?",
+    "answer": "A neural network is a computational model inspired by the human brain, built from layers of interconnected nodes (neurons) that process information and recognize patterns."
+  }
+]
